@@ -1,0 +1,1 @@
+// Error generating content for src/main/java/a/gui/ShopGUI.java. Please regenerate.

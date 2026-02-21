@@ -1,0 +1,1 @@
+// Error generating content for src/main/java/a/classes/killer/PhantomClass.java. Please regenerate.

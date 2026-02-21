@@ -1,0 +1,29 @@
+# Default Configuration for plugin 'a'
+# Automatically generated config.yml
+
+# General settings
+general:
+  # Enable debug mode for extra console logging
+  debug: false
+  # Prefix used in plugin messages
+  prefix: "&7[&aa&7] "
+
+# Plugin messages
+messages:
+  reload: "&aConfiguration reloaded successfully."
+  no-permission: "&cYou do not have permission to do this."
+  error: "&cAn error occurred. Please contact an administrator."
+
+# Feature toggles
+features:
+  # Enable custom models
+  custom-models: true
+  # Enable AI integrations
+  ai-integration: false
+
+# AI Settings
+ai:
+  # The model to use
+  model: "gemini-3.1-pro-preview"
+  # Optional API Key
+  api-key: ""

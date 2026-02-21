@@ -1,0 +1,5 @@
+name: a
+version: 1.0.0
+main: a.A
+api-version: '1.21'
+description: A plugin for Paper 1.21.4
